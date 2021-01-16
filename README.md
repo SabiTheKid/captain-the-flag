@@ -5,7 +5,7 @@ Project developed in 24 hours during the Hackathon @ <Academia de Código_>.
 Created by Code Cadets:<br>
 [Jéssica Câmara](http://github.com/jessicacamara11)<br>
 [Jonathas Oliveira](http://github.com/Jonasbr93)<br>
-[Miguel Sobreiro](http://github.com/SabyTheKid)<br>
+[Miguel Sobreiro](http://github.com/SabiTheKid)<br>
 [Miguel Teixeira](http://github.com/miguelteixas)<br>
 [Pablo González](http://github.com/pablogbarahona)<br>
 
